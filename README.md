@@ -1,4 +1,4 @@
-### [Hi there 👋](https://shuhan-lyu.github.io/shuhan-lyu/)
+### [https://shuhan-lyu.github.io/shuhan-lyu/ 👋](https://shuhan-lyu.github.io/shuhan-lyu/)
 
 <!--
 **shuhan-lyu/shuhan-lyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
